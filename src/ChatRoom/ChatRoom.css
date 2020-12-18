@@ -55,6 +55,7 @@
     bottom: 50vh;
     font-size: 17px;
     border: none;
+    box-shadow: -1px 1px 6px 0px #888888;
 }
 
 .new-message-input-field {
